@@ -1,3 +1,11 @@
 .wrapper {
 	padding:10px;
 }
+
+.form-item {
+	padding:10px;
+}
+
+#btn-check-in {
+	margin-top: 15px;
+}
